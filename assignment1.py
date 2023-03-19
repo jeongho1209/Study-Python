@@ -13,3 +13,4 @@ print(f"원금 : {a * 12:,}원")
 print(f"세전이자 : {int_interest:,}원")
 print(f"이자과세(15.4%) : {int_tax:,}원")
 print(f"세후 수려 : {a * 12 + int_interest - int_tax:,}원")
+
